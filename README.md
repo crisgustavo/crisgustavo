@@ -22,7 +22,6 @@ My goal is to study and always improve myself.
 
 ### <p align=center> *Learning and Improving* 📖</p>
 <br>
-
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></p>
 <hr>
