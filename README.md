@@ -1,12 +1,12 @@
 <span style="color:white" style="background-color:black">
 
 # <p align=center>Hi there 😎   My name is **Cristiano**</p>
-
-I'm a creative Brazilian Full Stack Developer with experience in React, Node.js and JavaScript. 
+<br>
+<p>I'm a creative Brazilian Full Stack Developer with experience in React, Node.js and JavaScript. 
 Expertise in RESTful APIs, microservices and MySQL databases. Knowledge of Docker and CI/CD. 
 Experience in developing scalable platforms for e-commerce and ERP.<br>
 I am proactive, organized and focused on studying technologies that will boost my career with the languages ​​that I adapt best to.
-I'm currently working as freelancer. 
+I'm currently working as freelancer. </p>
 <br>
 <br>
 <hr>
