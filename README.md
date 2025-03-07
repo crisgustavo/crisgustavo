@@ -23,7 +23,7 @@ I'm currently working as freelancer. </p>
 <br>
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.JS" />
 <img src="https://img.shields.io/badge/MySQL-030303?style=for-the-badge&logo=mysql&logoColor=61DAFB"%20alt="MySQL" />
-<img src="https://img.shields.io/badge/PostgreSQL-323330?style=for-the-badge&logo=postgresql&logoColor=white"%20alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/PostgreSQL-008080?style=for-the-badge&logo=postgresql&logoColor=white"%20alt="PostgreSQL" />
 <img src="https://img.shields.io/badge/MongoDB-58735b?style=for-the-badge&logo=mongodb&logoColor=lightgreen alt="MongoDB" />
 </p>
 
