@@ -29,7 +29,7 @@ I'm currently working as freelancer. </p>
 ### <p align=center> *Learning and Improving* 📖</p>
 <br>
 <p align=center>
-<img src="https://img.shields.io/badge/TypeScript-green?style=for-the-badge&logo=typescript&logoColor=F7DF1E"%20alt="TypeScript" />
+<img src="https://img.shields.io/badge/TypeScript-green?style=for-the-badge&logo=typescript&logoColor=white"%20alt="TypeScript" />
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></p>
 <hr>
 
