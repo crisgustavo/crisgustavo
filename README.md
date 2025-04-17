@@ -6,7 +6,7 @@
 Expertise in RESTful APIs, microservices and MySQL databases. Knowledge of Docker and CI/CD. <br>
 Experience in developing scalable platforms for e-commerce and ERP.<br>
 I'm proactive, organized and focused on studying technologies that will boost my career with the languages ​​that I adapt best to.<br>
-I'm currently working as Infocenter's Software Developer. </p>
+I'm currently working as Infocenter's Fullstack Software Developer. </p>
 <br>
 <br>
 <hr>
